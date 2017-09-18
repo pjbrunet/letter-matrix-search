@@ -21,3 +21,5 @@ Todo...
 3. Highlight the found letters better. 
 4. Post some photos. 
 
+Example search for "coffee" https://www.instagram.com/p/BVbM7oOj5U9/?taken-by=pjbrunet
+Video example of search in progress https://www.instagram.com/p/BVflCPQjaGW/?taken-by=pjbrunet
