@@ -1,12 +1,15 @@
 # letter-matrix-search
 Search through a random matrix of letters in multiple directions
 
-I created this with my students @ Southern Careers Institute. 
+I created this project with my students @ Southern Careers Institute. 
 http://www.scitexas.edu/programs/full-stack-javascript/
+
+This code was created by my students in Cloud9, a collaborative code editor. 
+https://aws.amazon.com/cloud9/ 
 
 How this started:
 
-- It started out as a real basic example of how to store random numbers in an array. 
+- It started out as a basic example of how to store random numbers in an array. 
 - Then we converted those numbers into letters. Then we arranged them on the screen with basic HTML. 
 - Then we started to notice words in the letters and decided to try to search for names from left to right. 
 - We needed a two dimensional array, which required refactoring the code.
@@ -19,6 +22,3 @@ Todo...
 1. Make the matrix an object and then matrix.search(), matrix.rotate(), etc.
 2. Search diagonally aka rotate matrix 45 degrees.
 3. Highlight the found letters better. 
-
-Example search for "coffee" https://www.instagram.com/p/BVbM7oOj5U9/?taken-by=pjbrunet
-Video example of search in progress https://www.instagram.com/p/BVflCPQjaGW/?taken-by=pjbrunet
